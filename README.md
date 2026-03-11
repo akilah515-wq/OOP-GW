@@ -3,7 +3,8 @@ Eastern Medical Health Region
 University of Technology, Jamaica School of Computing and Information Technology Object-Oriented Programming 
 Group Project, Semester 2
 
-Project Overview
+PROJECT OVERVIEW
+
 The EMHR System is a console based healthcare management application built in Java for the Eastern Medical Health Region (EMHR), serving the parishes of Kingston, Portland, Saint Andrew, and Saint Thomas.
 
 SYSTEM REQUIREMENTS
